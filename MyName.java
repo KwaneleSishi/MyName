@@ -4,6 +4,7 @@ public class MyName
    {
       System.out.println("Kwanele Sishi");
       ///new
+      ///sec
    }
 }
       
